@@ -1,0 +1,22 @@
+{
+  "name": "git-blame-all",
+  "version": "1.0.0",
+  "description": "Blame every line of given file",
+  "main": "index.js",
+  "bin": {
+    "git-blame-all": "./cli.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banyudu/git-blame-all.git"
+  },
+  "author": "banyudu <banyudu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/banyudu/git-blame-all/issues"
+  },
+  "homepage": "https://github.com/banyudu/git-blame-all#readme"
+}
